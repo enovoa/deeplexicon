@@ -58,7 +58,7 @@ pip3 install Keras tensorflow-gpu Pandas PyTs Scikit-learn numba==0.45.0 -->
 
 ## Running the software
 
-    python3 deeplexicon.py -p ~/top/fast5/path/ -f multi -m models/resnet20-final.h5 > output.tsv
+    python3 deeplexicon.py -p ~/top/fast5/path/ -f multi -m models/pAmps-final-actrun_newdata_nanopore_UResNet20v2_model.030.h5 > output.tsv
 
 ## Split fastq
 
